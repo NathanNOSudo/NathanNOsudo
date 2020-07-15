@@ -16,7 +16,9 @@
 ### Hi 🙋‍♂️,
 ### I'm im a Full-Stack Developer who attended DigitalCrafts of Houston. Mr. Azam was my awesome instructor, you may know him from his courses on Udemy! I have a praticular interest in all things code and am dedicated to being a life long learner learning the most cutting edge and in demand skills and stacks!
 <br />
-#### - 🔭 Life-Long Learner 
+#### - 🤔 A few things you should know
+
+- 🔭 Im a Life-Long Learner trying to discover new and interesting things!
 
 - 👯 I’m looking to collaborate on an awesome app to better the world!
 
