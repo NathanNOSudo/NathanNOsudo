@@ -4,7 +4,6 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:red">
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif" />
-<br />
 
 ### Hi 🙋‍♂️,
 ### I'm im a Full-Stack Developer who attended DigitalCrafts of Houston. Mr. Azam was my awesome instructor, you may know him from his courses on Udemy! I have a praticular interest in all things code and am dedicated to being a life long learner learning the most cutting edge and in demand skills and stacks!
