@@ -1,14 +1,7 @@
-### Hello friend, I'm [Nathan!](https://code-blooded-dev.surge.sh) 👋.  <img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/pronouns/hehim.svg" >
-
-<br/>
-  <a href="https://linkedin.com/in/nathanorris/">
-    <img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top;align:left; margin:6px 4px">
-  </a>  
-
-
- - add visitor badge
-
-<br />
+# <h1 align="center">Hello Friend👋, I'm [Nathan!](https://code-blooded-dev.surge.sh) 
+## <h2 align="center"> <img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/pronouns/hehim.svg" ><a href="https://linkedin.com/in/nathanorris/">  <img href="https://linkedin.com/in/nathanorris" src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/social/linkedin.svg" alt="linkedin" style="float:right; align:right; margin:6px 4px"></a> 
+  
+<hr style="height:2px;border-width:0;color:gray;background-color:red">
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif" />
 <br />
