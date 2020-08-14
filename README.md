@@ -19,7 +19,7 @@
 **Cyber Security, Web Development, Android Development, SEO, Quantum Computing, Raspberry-pi & and linux development. 😼**
 <br />
 
-
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=NathanNoSudo&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 *************
 
