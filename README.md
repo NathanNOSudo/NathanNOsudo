@@ -8,15 +8,15 @@
 ### Hi 🙋‍♂️,
 ### I'm im a Full-Stack Developer who attended DigitalCrafts of Houston. Mr. Azam was my awesome instructor, you may know him from his courses on Udemy! I have a praticular interest in all things code and am dedicated to being a life long learner learning the most cutting edge and in demand skills and stacks!
 <br />
-#### - 🔭 Life-Long Learner 
+🌱 I am dedicated to being a Life-Long Learner, and enjoy learning new things. 
 
 - 👯 I’m looking to collaborate on an awesome app to better the world!
 
-- ⚡ Fun fact: I love water sports; wake-boarding, sking, scuba-diving, and para-surfing.
+- 🔭 I’m currently working on a social media / learning management system application for a local school district!
 
-**I am Into , 🙏**
+- ⚡ Fun facts: I love camping, building android roms, my cats, fishing, and para-surfing.
 
-**Cyber Security, Web Development, Android Development, SEO, Quantum Computing, Raspberry-pi & and linux development. 😼**
+**I am Into: Cyber Security, Web Development, Android Development, SEO, Quantum Computing, Raspberry-pi & and linux development. **
 <br />
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=NathanNoSudo&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -32,54 +32,19 @@
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
  <img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-<img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"><img src="svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/misc/gamedev.svg" alt="gamedev" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"><img src="svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/misc/gamedev.svg" alt="gamedev" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:4px">
 
 </p>
 
-## Devices / Manufacturers
 <p align="left">
 
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/devices/cisco.svg" alt="cisco" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/devices/nintendo.svg" alt="nintendo" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/devices/philips_hue.svg" alt="philips_hue" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/devices/playstation.svg" alt="playstation" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/devices/raspberrypi.svg" alt="raspberrypi" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/devices/wearables.svg" alt="wearables" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/devices/xbox.svg" alt="xbox" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  
 
 </p>
 
 ### - Blogs 🌱
 
-<p>Still to link</p>
+<p>Under construction with many new features!</p>
 
 
 ***********************************
