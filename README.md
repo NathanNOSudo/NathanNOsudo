@@ -21,26 +21,26 @@
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=NathanNoSudo&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
+ 
+ 
+ 
+ 
+
+ 
+
+ <p align="left"><img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"><img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px"><img svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"><img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px"><img src="svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px"><img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"><img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px"><img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"><img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"><img src="svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px"><img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px"><img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px"><img src="svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px"><img src="svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:4px"><img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px"><img src="svg/dev/services/google_cloud_platform.svg" alt="google_cloud_platform" style="vertical-align:top; margin:6px 4px"><img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"><img src="svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:4px"><img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px"><img src="svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:6px 4px"></p>
+
+
+
+
 *************
 
 <br />
 
 ### - Languages and Tools...
 
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-
- <img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
- <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
- <img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
- <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
- <img src="svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
- <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-<img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
-<img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"><img src="svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px"><img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px"><img src="svg/dev/services/google_cloud_platform.svg" alt="google_cloud_platform" style="vertical-align:top; margin:6px 4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:4px"><img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px"><img src="svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:6px 4px">
-
-</p>
 
 <p align="left">
 
