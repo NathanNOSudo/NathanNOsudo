@@ -6,7 +6,7 @@
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif" />
 
 ### Hi 🙋‍♂️,
-### I'm im a Full-Stack Developer who attended DigitalCrafts of Houston. Mr. Azam was my awesome instructor, you may know him from his courses on Udemy! I have a praticular interest in all things code and am dedicated to being a life long learner learning the most cutting edge and in demand skills and stacks!
+### I'm a Full-Stack Developer who attended DigitalCrafts of Houston and am currently A developer in residence at DigitalCrafts. Mr. Azam was my awesome instructor, you may know him from his courses on Udemy! I have a praticular interest in all things code and am dedicated to being a life long learner learning the most cutting edge and in demand skills and stacks!
 <br />
 
 - 🌱 I am dedicated to being a Life-Long Learner, and enjoy learning new things. 
