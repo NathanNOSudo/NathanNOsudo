@@ -2,8 +2,8 @@
 ## <h2 align="center"> <img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/pronouns/hehim.svg" ><a href="https://linkedin.com/in/nathanorris/">  <img href="https://linkedin.com/in/nathanorris" src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/social/linkedin.svg" alt="linkedin" style="float:right; align:right; margin:6px 4px"></a> 
   
 <hr style="height:2px;border-width:0;color:gray;background-color:red">
-
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif" />
+<p><em>Developer in Residence at <a href="https://www.DigitialCrafts.com">DigitalCrafts</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 ### Hi 🙋‍♂️,
 ### I'm a Full-Stack Developer who attended DigitalCrafts of Houston and am currently A developer in residence at DigitalCrafts. Mr. Azam was my awesome instructor, you may know him from his courses on Udemy! I have a praticular interest in all things code and am dedicated to being a life long learner learning the most cutting edge and in demand skills and stacks!
