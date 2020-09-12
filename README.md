@@ -48,7 +48,7 @@ const nathan = {
 
  ### - Languages and Tools... 
 <p align="left">
-  <tr><tb><img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px"> </tb>
+  <tr><tb><img url="https://github.com/nathannosudo/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px"> </tb>
   <tb><img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px"> </tb>
   <tb><img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:p6x 4px"></tb>
   <tb><img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px"></tb>
