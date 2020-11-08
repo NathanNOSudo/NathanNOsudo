@@ -41,14 +41,14 @@ const nathan = {
 };
 ```
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=NathanNoSudo&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+# <h2 align="center"> [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=NathanNoSudo&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=nathannosudo&theme=blue-green)
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
- 
 
- ### - Languages and Tools... 
-<p align="left">
+
+### <h2 align="center"> - Languages and Tools... 
+<p align="center">
   <tr><tb><a href=#><img src="./svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px"> </a></tb>
   <tb><svg width="114" height="32" viewBox="0 0 114 32" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M109 0H31V32H109C111.761 32 114 29.7614 114 27V5C114 2.23858 111.761 0 109 0Z" fill="#0F1418"/>
