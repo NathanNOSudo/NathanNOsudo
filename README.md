@@ -6,8 +6,8 @@
 <p><em>Developer in Residence at <a href="https://www.DigitialCrafts.com">DigitalCrafts</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-### Hi 🙋‍♂️,
-### I'm a Full-Stack Developer who attended DigitalCrafts of Houston and am currently A developer in residence at DigitalCrafts. Mr. Azam was my awesome instructor, you may know him from his courses on Udemy! I have a praticular interest in all things code and am dedicated to being a life long learner learning the most cutting edge and in demand skills and stacks!
+### Full Stack Developer, who is driven by curiosity and a passion for learning and creative collaberation. Currently on a mission to make a difference. 
+
 <br />
 
 - 🌱 I am dedicated to being a Life-Long Learner, and enjoy learning new things. 
