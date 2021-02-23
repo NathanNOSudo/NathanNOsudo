@@ -108,10 +108,6 @@ const nathan = {
 
 </p>
 
-### - Blogs 🌱
-
-<p>Under construction with many new features!</p>
-
 
 ***********************************
 
