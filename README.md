@@ -19,13 +19,13 @@
 ```javascript
 const nathan = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "HTML5", "CSS3", "Java", "php"],
-    askMeAbout: ["Web Development", "Tech", "App Development", "Linux", "Cyber-Security"],
+    code: ["Javascript", "Typescript", "HTML5", "CSS3", "Java", "Bash", "Python"],
+    askMeAbout: ["Web Development", "Tech", "Reverse-Engineering", "Linux", "Cyber-Security"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
-            js: ["React", "Vue"],
-            css: ["Materialize", "Vuetify", "Bootstrap"]
+            js: ["React", "Angular"],
+            css: ["Materialize", "VANILLA CSS BABY", "SCSS", "Bootstrap"]
         },
         backEnd: {
             js: ["node", "express", "SuiteScript"],
@@ -73,7 +73,6 @@ const nathan = {
   <tb><img src="svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px"></tb></tr>
   <tr><tb><img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px"></tb>
-  <tb><img src="svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px"></tb></tr>
   <tr><tb><img src="svg/dev/services/google_cloud_platform.svg" alt="google_cloud_platform" style="vertical-align:top; margin:6px 4px"></tb>
