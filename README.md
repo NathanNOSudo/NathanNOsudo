@@ -19,19 +19,19 @@
 ```javascript
 const nathan = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "HTML5", "CSS3", "Java", "Bash", "Python"],
+    code: ["Javascript", "Typescript", "HTML5", "CSS3", "Bash", "Python"],
     askMeAbout: ["Web Development", "Tech", "Reverse-Engineering", "Linux", "Cyber-Security"],
     technologies: {
-        mobileApp: ["Android App"],
+        mobileApp: ["Android App", "IOS"],
         frontEnd: {
-            js: ["React", "Angular"],
+            js: ["React"],
             css: ["Materialize", "VANILLA CSS BABY", "SCSS", "Bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
+            js: ["Node", "Express", "Nest.JS"],
             python: ["flask"]
         },
-        devOps: ["Google Play Developer", "AWS", "Docker🐳", "Google-Cloud-Platform"],
+        devOps: ["Google Play Developer", "Docker🐳", "Google-Cloud-Platform"],
         databases: ["PostgreSQL", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "Selenium", "Heroku","Netlify", "Surge.sh"]
     },
@@ -65,13 +65,10 @@ const nathan = {
 </svg><img src="./svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px"> </tb>
   <tb><img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:p6x 4px"></tb>
   <tb><img src="svg/dev/frameworks/bootstrap.svg" sanitize=1 alt="bootstrap" style="vertical-align:top; margin:6px 4px"></tb>
-  <tb><img src="svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px"></tb></tr>
   <tr><tb><img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" sanitize=1 style="vertical-align:top; margin:6px 4px"></tb>
   <tr><tb><img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"></tb>
   <tb><img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"></tb>
-  <tb><img src="svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px"></tb></tr>
-  <tr><tb><img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px"></tb></tr>
