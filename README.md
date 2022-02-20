@@ -1,7 +1,6 @@
-# <h1 align="center"> Hello Friend, I'm [Nathan!](https://code-blooded-dev.surge.sh)  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-## <h2 align="center"> <img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/pronouns/hehim.svg" ><a href="https://linkedin.com/in/nathanorris/">  <img href="https://linkedin.com/in/nathanorris" src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/social/linkedin.svg" alt="linkedin" style="float:right; align:right; margin:6px 4px"></a> 
-# <h2 align="center">![Visitor Count](https://profile-counter.glitch.me/{NathanNOSudo}/count.svg) Visitors since October 8th! Thank you for stopping by!
-  
+# <h1 align="center"> Hello Friend, I'm [Nathan!](https://code-blooded-dev.surge.sh)
+# <div align="center"><img align="center" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40">![Visitor Count](https://profile-counter.glitch.me/{NathanNOSudo}/count.svg) Visitors</div>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathannosudo&ow=1&column=7" alt="nathannosudo" /> </a> </p>
 <hr style="height:2px;border-width:0;color:gray;background-color:red">
 <p><em>Developer in Residence at <a href="https://www.DigitialCrafts.com">DigitalCrafts</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
