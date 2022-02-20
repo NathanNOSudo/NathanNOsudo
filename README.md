@@ -1,42 +1,34 @@
 # <h1 align="center"> Hello Friend, I'm [Nathan!](https://code-blooded-dev.surge.sh)
 # <div align="center"><img align="center" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40">![Visitor Count](https://profile-counter.glitch.me/{NathanNOSudo}/count.svg) Visitors</div>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathannosudo&ow=1&column=7" alt="nathannosudo" /> </a> </p>
-<hr style="height:2px;border-width:0;color:gray;background-color:red">
-<p><em>Developer in Residence at <a href="https://www.DigitialCrafts.com">DigitalCrafts</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-### Full Stack Developer, who is driven by curiosity and a passion for learning and creative collaberation. Currently on a mission to make a difference. 
+<hr />
+<p align="center"><em>Software Engineer at <a href="https://www.utexas.edu">University of Texas</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em>who is Driven by curiosity with a passion for learning and creative collaberation.</p>
 
 <br />
-
-- 🌱 I am dedicated to being a Life-Long Learner, and enjoy learning new things. 
-
-- 👯🔭 I’m looking to collaborate on an awesome app to better the world!
-
-- ⚡ For Fun: I love camping, building android roms, my cats, fishing, and para-surfing.
-
+  
 ```javascript
 const nathan = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "HTML5", "CSS3", "Bash", "Python"],
     askMeAbout: ["Web Development", "Tech", "Reverse-Engineering", "Linux", "Cyber-Security"],
     technologies: {
-        mobileApp: ["Android App", "IOS"],
+        mobileApp: ["React Native"],
         frontEnd: {
-            js: ["React"],
-            css: ["Materialize", "VANILLA CSS BABY", "SCSS", "Bootstrap"]
+            js: ["React", "VUE"],
+            css: ["Materialize", "SCSS", "Bootstrap"]
         },
         backEnd: {
             js: ["Node", "Express", "Nest.JS"],
             python: ["flask"]
         },
-        devOps: ["Google Play Developer", "Docker🐳", "Google-Cloud-Platform"],
-        databases: ["PostgreSQL", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "Selenium", "Heroku","Netlify", "Surge.sh"]
+        devOps: ["Google Play Developer", "Docker🐳", "AWS"],
+        databases: ["PostgreSQL", "MySql", "MongoDB"],
+        misc: ["Firebase", "Heroku", "Netlify", "Surge.sh"]
     },
     architecture: ["Progressive web applications", "Serverless Architecture", "Mobile Apps", "Single page applications"],
-    currentProject: "I am currently working on a learning-managment/social-media app for a local school district",
-    funFact: "The reigning hide and seek champion continues to be... ';' "
+    currentProject: "Learning AWS",
+    funFact: "I love Cheescake"
 };
 ```
 
