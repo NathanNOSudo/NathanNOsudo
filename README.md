@@ -98,7 +98,7 @@ const nathan = {
 
 ***********************************
 
-#### Thank You For Visiting!-🙏🏼
+#### Thank You For Visiting!-
 
 <!--
 **NathanNOSudo/NathanNOsudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
